@@ -27,7 +27,9 @@ Now for understanding coercion we must first understand ABSOLUTE OPERATIONS.
 
 ### Absolute operation:
 
-![[ab.png]]*as the  above documentation describe, that these type of operations is-
+![doc image](https://github.com/mak650650/myJsNotes/blob/2a2f5a076cb93b5ea8ba95ba126a3dec584a0784/ab.png)
+
+*as the  above documentation describe, that these type of operations is-
 
 - Not a part of javascript language 
 - It is just used to explain the hidden part of javascript's  implicit type conversion.
