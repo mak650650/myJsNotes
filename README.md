@@ -44,7 +44,7 @@ Now for understanding coercion we must first understand ABSOLUTE OPERATIONS.
 
 #ToNumber:
 
-<a href="https://262.ecma-international.org/10.0/#sec-tonumber">doc</a>
+<a href="https://262.ecma-international.org/10.0/#sec-tonumber">Ecma documentation</a>
 ```js
 console.log(1 - undefined) // as undefined -- NaN
 ```
