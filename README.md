@@ -12,7 +12,7 @@
 There are two ways of type conversion:
  
 >1. Explicit Type casting/conversion ---> "manual"
->2. Implicit Type casting/conversion ---> "Coereion"
+>2. Implicit Type casting/conversion ---> "Coercion"
 ```
 
 as, 
